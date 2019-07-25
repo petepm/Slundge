@@ -1,4 +1,4 @@
-<REAPER_PROJECT 0.1 "5.981/x64" 1563969537
+<REAPER_PROJECT 0.1 "5.981/x64" 1564015273
   RIPPLE 0
   GROUPOVERRIDE 0 0 0
   AUTOXFADE 1
@@ -14,8 +14,8 @@
   TIMEMODE 1 5 -1 30 0
   VIDEO_CONFIG 0 0 256
   PANMODE 3
-  CURSOR 122.75862068965517
-  ZOOM 9.13579079164377 690 0
+  CURSOR 30.3448275862069
+  ZOOM 9.13579079164377 0 0
   VZOOMEX 5
   USE_REC_CFG 0
   RECMODE 0
@@ -46,7 +46,7 @@
     ZXZhdxgAAA==
   >
   LOCK 1
-  <METRONOME 7 2
+  <METRONOME 6 2
     VOL 0.669861 0.33493
     FREQ 800 1600 1
     BEATLEN 4
@@ -1714,7 +1714,7 @@
     <ITEM
       POSITION 94.82758620689656
       SNAPOFFS 0
-      LENGTH 545.17241379310349
+      LENGTH 29.82758620689656
       LOOP 0
       ALLTAKES 0
       FADEIN 1 0 0 1 0 0
@@ -1960,13 +1960,207 @@
         E 211 80 35 40
         E 551 90 35 76
         E 290 80 35 40
-        E 1447896 b0 7b 00
+        E 13176 b0 7b 00
         CHASE_CC_TAKEOFFS 1
         GUID {6B377845-1551-403D-AF16-0F1BE2498A25}
         IGNTEMPO 0 120 4 4
         SRCCOLOR 1
         VELLANE -1 156 0
-        CFGEDITVIEW 0 0.009655 66 16 0 -1 0 0 0 0.5
+        CFGEDITVIEW 79904.095442 0.095537 60 16 0 -1 0 0 0 0.5
+        KEYSNAP 0
+        TRACKSEL 269
+        EVTFILTER 0 -1 -1 -1 -1 0 0 0 0 -1 -1 -1 -1 0 -1 0 -1 -1
+        CFGEDIT 1 1 0 1 0 0 1 0 1 1 1 0.25 38 12 1912 1116 0 0 0 0 0 0 0 1 0 0 0 0 1 64
+      >
+    >
+    <ITEM
+      POSITION 124.65517241379311
+      SNAPOFFS 0
+      LENGTH 515.34482758620697
+      LOOP 0
+      ALLTAKES 0
+      FADEIN 1 0 0 1 0 0
+      FADEOUT 1 0 0 1 0 0
+      MUTE 0
+      SEL 1
+      IGUID {273E5B51-5535-4CF3-B472-7B849D69E890}
+      IID 56
+      NAME "Drummah untitled MIDI item"
+      VOLPAN 1 0 1 -1
+      SOFFS 0 0
+      PLAYRATE 1 1 0 -1 0 0.0025
+      CHANMODE 0
+      GUID {0D0FFA7E-0E5E-4266-B5D1-D67022D83068}
+      <SOURCE MIDI
+        HASDATA 1 960 QN
+        POOLEDEVTS {69E9A6AC-8DBB-4A62-B8F1-183116ED03ED}
+        E 0 90 1b 37
+        E 240 80 1b 00
+        E 2160 90 24 7f
+        E 0 90 1e 57
+        E 0 90 1c 7f
+        E 240 80 24 00
+        E 0 80 1e 00
+        E 0 80 1c 00
+        E 1680 90 1e 56
+        E 240 80 1e 00
+        E 1680 90 26 7f
+        E 0 90 1e 56
+        E 240 80 26 00
+        E 0 80 1e 00
+        E 1680 90 1e 75
+        E 240 80 1e 00
+        E 720 90 24 75
+        E 240 80 24 00
+        E 720 90 1e 55
+        E 0 90 24 75
+        E 240 80 1e 00
+        E 0 80 24 00
+        E 720 90 24 75
+        E 240 80 24 00
+        E 720 90 1e 75
+        E 240 80 1e 00
+        E 720 90 24 75
+        E 240 80 24 00
+        E 720 90 1e 75
+        E 0 90 26 7f
+        E 240 80 1e 00
+        E 0 80 26 00
+        E 720 90 24 69
+        E 240 80 24 00
+        E 720 90 1e 7f
+        E 0 90 24 7f
+        E 240 80 1e 00
+        E 0 80 24 00
+        E 1680 90 1e 69
+        E 240 80 1e 00
+        E 720 90 24 69
+        E 240 80 24 00
+        E 720 90 1e 69
+        E 0 90 26 7f
+        E 240 80 1e 00
+        E 0 80 26 00
+        E 1680 90 1e 69
+        E 240 80 1e 00
+        E 720 90 24 7f
+        E 248 80 24 00 -8
+        E 712 90 1e 69
+        E 0 90 24 7f
+        E 240 80 1e 00
+        E 0 80 24 00
+        E 720 90 24 7f
+        E 240 80 24 00
+        E 720 90 1e 69
+        E 240 80 1e 00
+        E 720 90 24 68
+        E 240 80 24 00
+        E 720 90 1e 69
+        E 0 90 26 7f
+        E 240 80 1e 00
+        E 0 80 26 00
+        E 720 90 24 63
+        E 240 80 24 00
+        E 720 90 1e 7f
+        E 0 90 24 7f
+        E 240 80 1e 00
+        E 0 80 24 00
+        E 1680 90 1e 63
+        E 240 80 1e 00
+        E 720 90 24 63
+        E 240 80 24 00
+        E 720 90 26 7f
+        E 0 90 1e 63
+        E 240 80 26 00
+        E 0 80 1e 00
+        E 1680 90 1e 63
+        E 240 80 1e 00
+        E 720 90 24 63
+        E 240 80 24 00
+        E 720 90 1e 63
+        E 0 90 24 63
+        E 240 80 1e 00
+        E 0 80 24 00
+        E 720 90 24 74
+        E 0 90 1f 74
+        E 240 80 24 00
+        E 0 80 1f 00
+        E 720 90 1e 74
+        E 240 80 1e 00
+        E 720 90 24 74
+        E 240 80 24 00
+        E 720 90 1e 74
+        E 240 80 1e 00
+        E 720 90 24 74
+        E 240 80 24 00
+        E 720 90 1e 74
+        E 0 90 26 74
+        E 240 80 1e 00
+        E 0 80 26 00
+        E 1680 90 1e 74
+        E 0 90 24 65
+        E 240 80 1e 00
+        E 0 80 24 00
+        E 720 90 20 74
+        E 0 90 24 74
+        E 240 80 20 00
+        E 0 80 24 00
+        E 720 90 1e 65
+        E 240 80 1e 00
+        E 1680 90 1e 65
+        E 0 90 24 72
+        E 240 80 1e 00
+        E 0 80 24 00
+        E 720 90 26 7f
+        E 240 80 26 00
+        E 720 90 1e 65
+        E 240 80 1e 00
+        E 1680 90 24 72
+        E 0 90 1e 65
+        E 240 80 24 00
+        E 0 80 1e 00
+        E 720 90 24 7f
+        E 0 90 1c 72
+        E 240 80 24 00
+        E 0 80 1c 00
+        E 720 90 1e 65
+        E 240 80 1e 00
+        E 720 90 24 72
+        E 240 80 24 00
+        E 720 90 1d 78
+        E 0 90 26 7f
+        E 240 80 1d 00
+        E 0 80 26 00
+        E 1680 90 1e 65
+        E 0 90 24 72
+        E 240 80 1e 00
+        E 0 80 24 00
+        E 720 90 24 72
+        E 0 90 20 7a
+        E 240 80 24 00
+        E 0 80 20 00
+        E 720 90 1e 65
+        E 240 80 1e 00
+        E 720 90 24 72
+        E 240 80 24 00
+        E 720 90 1e 65
+        E 0 90 26 7f
+        E 240 80 1e 00
+        E 0 80 26 00
+        E 1680 90 24 72
+        E 0 90 1e 65
+        E 240 80 24 00
+        E 0 80 1e 00
+        E 720 90 24 72
+        E 0 90 20 65
+        E 240 80 20 00
+        E 14 80 24 00
+        E 1369666 b0 7b 00
+        CHASE_CC_TAKEOFFS 1
+        GUID {2D44EF72-7353-439A-9F08-D864FDA63368}
+        IGNTEMPO 0 120 4 4
+        SRCCOLOR 2
+        VELLANE -1 156 0
+        CFGEDITVIEW -79062.290552 0.005444 63 16 0 -1 0 0 0 0.5
         KEYSNAP 0
         TRACKSEL 269
         EVTFILTER 0 -1 -1 -1 -1 0 0 0 0 -1 -1 -1 -1 0 -1 0 -1 -1
@@ -1979,15 +2173,15 @@
     PEAKCOL 16576
     BEAT -1
     AUTOMODE 0
-    VOLPAN 1.51029054812145 0 -1 -1 1
+    VOLPAN 1.28351656094823 0 -1 -1 1
     MUTESOLO 0 0 0
     IPHASE 0
     ISBUS 0 0
     BUSCOMP 0 0
     SHOWINMIX 1 0.6667 0.5 1 0.5 0 0 0
     FREEMODE 0
-    SEL 0
-    REC 0 1 0 0 0 0 0
+    SEL 1
+    REC 1 1 0 0 0 0 0
     AUTO_RECARM 1
     VU 2
     TRACKHEIGHT 0 0 0
@@ -2241,7 +2435,7 @@
     PEAKCOL 16576
     BEAT -1
     AUTOMODE 0
-    VOLPAN 1.51029054812145 -1 -1 -1 1
+    VOLPAN 1.18169906277985 -1 -1 -1 1
     MUTESOLO 0 0 0
     IPHASE 0
     ISBUS 0 0
@@ -2428,15 +2622,15 @@
     PEAKCOL 16576
     BEAT -1
     AUTOMODE 0
-    VOLPAN 1.51029054812145 1 -1 -1 1
+    VOLPAN 1.18169906277985 1 -1 -1 1
     MUTESOLO 0 0 0
     IPHASE 0
     ISBUS 0 0
     BUSCOMP 0 0
     SHOWINMIX 1 0.6667 0.5 1 0.5 0 0 0
     FREEMODE 0
-    SEL 1
-    REC 1 1 0 0 0 0 0
+    SEL 0
+    REC 0 1 0 0 0 0 0
     AUTO_RECARM 1
     VU 2
     TRACKHEIGHT 0 0 0
@@ -2571,7 +2765,7 @@
       FADEIN 1 0 0 1 0 0
       FADEOUT 1 0 0 1 0 0
       MUTE 0
-      SEL 1
+      SEL 0
       IGUID {0FAE169C-0F60-4587-BDFE-B0F23350248B}
       IID 44
       NAME Empty
