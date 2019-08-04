@@ -1,21 +1,21 @@
-<REAPER_PROJECT 0.1 "5.981/x64" 1564927148
+<REAPER_PROJECT 0.1 "5.981/x64" 1564934149
   RIPPLE 0
   GROUPOVERRIDE 0 0 0
   AUTOXFADE 1
   ENVATTACH 1
   POOLEDENVATTACH 0
   MIXERUIFLAGS 11 48
-  PEAKGAIN 64
+  PEAKGAIN 1
   FEEDBACK 0
   PANLAW 1
   PROJOFFS 0 0 0
   MAXPROJLEN 0 600
-  GRID 3199 8 1 8 1 0 0 0
+  GRID 3455 8 1 8 1 0 0 0
   TIMEMODE 1 5 -1 30 0
   VIDEO_CONFIG 0 0 256
   PANMODE 3
-  CURSOR 300.86392171361979
-  ZOOM 9.13579079164389 1449 0
+  CURSOR 285.12901512991147
+  ZOOM 71.04526912997872 19910 0
   VZOOMEX 15
   USE_REC_CFG 0
   RECMODE 0
@@ -56,8 +56,8 @@
   GLOBAL_AUTO -1
   TEMPO 174 1 8
   PLAYRATE 1 0 0.25 4
-  SELECTION 0 0
-  SELECTION2 0 0
+  SELECTION 281.93291749454448 308.55823492298578
+  SELECTION2 281.93291749454448 308.55823492298578
   MASTERAUTOMODE 0
   MASTERTRACKHEIGHT 0 0
   MASTERPEAKCOL 16576
@@ -2548,8 +2548,8 @@
         E 0 80 1b 00
         E 720 90 1e 47
         E 240 80 1e 00
-        E 720 90 1e 69
-        E 0 90 24 69
+        E 720 90 1e 7f
+        E 0 90 24 7f
         E 240 80 1e 00
         E 0 80 24 00
         E 720 90 24 69
@@ -2562,7 +2562,7 @@
         IGNTEMPO 0 120 4 4
         SRCCOLOR 11
         VELLANE -1 156 0
-        CFGEDITVIEW 0 0.022707 57 12 0 -1 0 0 0 0.5
+        CFGEDITVIEW 58747.867479 0.168715 56 12 0 -1 0 0 0 0.5
         KEYSNAP 0
         TRACKSEL 269
         EVTFILTER 0 -1 -1 -1 -1 0 0 0 0 -1 -1 -1 -1 0 -1 0 -1 -1
@@ -2608,37 +2608,37 @@
         E 219 80 24 00
         E 465 90 1d 7f
         E 335 80 1d 00
-        E 150 90 24 7f
-        E 22 90 1b 7f
-        E 208 80 24 00
-        E 200 80 1b 00
+        E 172 90 1b 7f
+        E 141 90 24 7f
+        E 230 80 24 00
+        E 37 80 1b 00
         E 685 90 1d 7f
         E 277 80 1d 00
-        E 990 90 24 7f
+        E 946 90 24 7f
         E 13 90 1c 7f
         E 11 90 26 7f
         E 165 80 26 00
         E 18 80 24 00
         E 19 80 1c 00
-        E 402 90 24 7f
+        E 363 90 24 7f
         E 200 80 24 00
-        E 396 90 24 7f
+        E 414 90 24 7f
         E 20 90 1e 7f
         E 181 80 1e 00
         E 11 80 24 00
-        E 419 90 29 7f
+        E 484 90 29 7f
         E 6 90 24 7f
         E 212 80 24 00
         E 33 80 29 00
-        E 534 90 1b 7f
-        E 6 90 24 7f
-        E 191 80 1b 00
-        E 39 80 24 00
-        E 504 90 1d 7f
+        e 409 90 1b 7f
+        e 6 90 24 7f
+        e 191 80 1b 00
+        e 39 80 24 00
+        E 632 90 1d 7f
         E 3 90 24 7f
         E 213 80 24 00
         E 43 80 1d 00
-        E 767 90 1b 7f
+        E 764 90 1b 7f
         E 212 80 1b 00
         E 713 90 24 7f
         E 142 80 24 00
@@ -2654,15 +2654,15 @@
         E 201 80 24 00
         E 412 90 1b 7f
         E 283 80 1b 00
-        E 302 90 24 7f
-        E 177 80 24 00
-        E 351 90 1b 7f
-        E 282 80 1b 00
-        E 640 90 29 7f
-        E 53 90 2b 7f
-        E 177 80 29 00
-        E 22 80 2b 00
-        E 675 90 24 7f
+        E 527 90 24 7f
+        E 72 90 1d 7f
+        E 105 80 24 00
+        E 1 80 1d 00
+        E 549 90 1b 7f
+        E 194 80 1b 00
+        E 544 90 1b 7f
+        E 230 80 1b 00
+        E 457 90 24 7f
         E 47 90 1d 7f
         E 160 80 24 00
         E 41 80 1d 00
@@ -2674,19 +2674,19 @@
         E 18 90 1b 7f
         E 182 80 24 00
         E 22 80 1b 00
-        E 270 90 1d 7f
+        E 301 90 1d 7f
         E 22 90 24 7f
         E 204 80 24 00
         E 4 80 1d 00
-        E 253 90 1b 7f
-        E 18 90 24 7f
-        E 190 80 24 00
-        E 9 80 1b 00
-        E 443 90 24 7f
+        E 355 90 24 7f
+        E 22 90 1b 7f
+        E 168 80 24 00
+        E 49 80 1b 00
+        E 418 90 24 7f
         E 5 90 1b 7f
         E 226 80 24 00
         E 17 80 1b 00
-        E 514 90 24 7f
+        E 384 90 24 7f
         E 31 90 1b 7f
         E 195 80 24 00
         E 46 80 1b 00
@@ -2712,31 +2712,31 @@
         E 90 80 26 00
         E 67 90 26 60
         E 106 80 26 00
-        E 67 90 2b 72
+        E 67 90 2b 63
         E 53 80 2b 00
-        E 115 90 2b 71
+        E 115 90 2b 66
         E 84 80 2b 00
-        E 102 90 1b 7f
+        E 63 90 1b 7f
         E 13 90 24 7f
         E 204 80 1b 00
         E 0 80 24 00
-        E 452 90 24 7f
+        E 362 90 24 7f
         E 67 90 1d 7f
         E 159 80 24 00
         E 31 80 1d 00
-        E 514 90 24 7f
+        E 307 90 24 7f
         E 19 90 26 7f
         E 3 90 1b 7f
         E 182 80 1b 00
         E 9 80 24 00
         E 14 80 26 00
-        E 247 90 24 7f
+        E 410 90 24 7f
         E 249 80 24 00
-        E 238 90 1b 7f
+        E 356 90 1b 7f
         E 1 90 24 7f
         E 190 80 24 00
         E 13 80 1b 00
-        E 751 90 1d 7f
+        E 806 90 1d 7f
         E 186 80 1d 00
         E 550 90 24 7f
         E 9 90 1b 7f
@@ -2754,9 +2754,9 @@
         E 54 80 1b 00
         E 489 90 1b 7f
         E 201 80 1b 00
-        E 35 90 24 7f
+        E 200 90 24 7f
         E 248 80 24 00
-        E 691 90 1b 7f
+        E 526 90 1b 7f
         E 200 80 1b 00
         E 295 90 24 7f
         E 18 90 1d 7f
@@ -2768,29 +2768,29 @@
         E 39 90 2b 7f
         E 173 80 29 00
         E 71 80 2b 00
-        E 599 90 24 7f
+        E 375 90 24 7f
         E 16 90 1b 7f
         E 201 80 24 00
         E 17 80 1b 00
-        E 373 90 24 7f
+        E 286 90 24 7f
         E 70 90 1d 7f
         E 111 80 24 00
         E 78 80 1d 00
-        E 308 90 24 7f
+        E 293 90 24 7f
         E 11 90 26 7f
         E 29 90 1b 7f
         E 128 80 24 00
         E 61 80 26 00
         E 35 80 1b 00
-        E 278 90 1b 7f
+        E 293 90 1b 7f
         E 16 90 24 7f
         E 196 80 1b 00
         E 4 80 24 00
-        E 461 90 24 7f
+        E 359 90 24 7f
         E 54 90 1d 7f
         E 172 80 24 00
         E 17 80 1d 00
-        E 741 90 1c 6c
+        E 698 90 1c 6c
         E 169 80 1c 00
         E 791 90 1e 7f
         E 5 90 1b 7f
@@ -2798,29 +2798,29 @@
         E 247 80 1e 00
         E 6 80 1b 00
         E 63 80 24 00
-        E 1158 90 1b 7f
+        E 1153 90 1b 7f
         E 173 80 1b 00
         E 264 90 24 7f
         E 157 80 24 00
         E 94 90 24 7f
         E 173 80 24 00
-        E 71 90 26 7f
-        E 204 80 26 00
-        E 495 90 1d 7f
+        E 44 90 20 7f
+        E 27 90 26 7f
+        E 191 80 20 00
+        E 13 80 26 00
+        E 716 90 1d 7f
         E 134 80 1d 00
         E 134 90 24 7f
         E 165 80 24 00
-        E 278 90 2d 7f
-        E 204 80 2d 00
-        E 82 90 1d 7f
-        E 147 80 1d 00
-        E 90 90 29 7f
-        E 173 80 29 00
-        E 280 90 24 7f
+        E 743 90 2b 7f
+        E 125 90 29 7f
+        E 24 80 2b 00
+        E 142 80 29 00
+        E 220 90 24 7f
         E 1 90 20 7f
         E 188 80 24 00
         E 6 80 20 00
-        E 782 90 1b 7f
+        E 561 90 1b 7f
         E 235 80 1b 00
         E 1178 90 23 7f
         E 18 90 1b 7f
@@ -2854,35 +2854,35 @@
         E 30 80 23 00
         E 1180 90 1b 7f
         E 201 80 1b 00
-        E 507 90 26 7f
+        E 414 90 26 7f
         E 71 80 26 00
         E 59 90 26 7f
         E 89 80 26 00
-        E 779 90 23 7f
+        E 700 90 23 7f
         E 41 90 1b 7f
         E 12 90 1e 7f
         E 153 80 23 00
         E 18 80 1b 00
         E 23 80 1e 00
-        E 1181 90 1b 7f
+        E 816 90 1b 7f
         E 220 80 1b 00
-        E 701 90 2b 7f
+        E 737 90 2b 7f
         E 93 80 2b 00
-        e 41 90 29 7f
-        e 107 80 29 00
+        E 41 90 29 7f
+        E 107 80 29 00
         E 764 90 24 7f
         E 17 90 1b 7f
         E 5 90 20 7f
         E 182 80 20 00
         E 4 80 1b 00
         E 22 80 24 00
-        E 935742 b0 7b 00
+        E 936704 b0 7b 00
         CHASE_CC_TAKEOFFS 1
         GUID {6CDA21F1-15DA-4674-8277-71E133BEFA6F}
         IGNTEMPO 0 120 4 4
         SRCCOLOR 4
         VELLANE -1 156 0
-        CFGEDITVIEW -35012.608083 0.012859 58 16 0 -1 46 0 0 0.5
+        CFGEDITVIEW -81412.252773 0.00725 59 16 0 -1 46 0 0 0.5
         KEYSNAP 0
         TRACKSEL 269
         EVTFILTER 0 -1 -1 -1 -1 0 0 0 0 -1 -1 -1 -1 0 -1 0 -1 -1
@@ -3268,7 +3268,7 @@
     PEAKCOL 16576
     BEAT -1
     AUTOMODE 0
-    VOLPAN 1.18169906277985 -1 -1 -1 1
+    VOLPAN 1.18169906277985 0 -1 -1 1
     MUTESOLO 0 0 0
     IPHASE 0
     ISBUS 0 0
@@ -3553,7 +3553,7 @@
     <ITEM
       POSITION 282.75862068965517
       SNAPOFFS 0
-      LENGTH 31.89655172413791
+      LENGTH 3.10344827586209
       LOOP 0
       ALLTAKES 0
       FADEIN 1 0 0 1 0 0
@@ -3585,7 +3585,7 @@
       <SOURCE WAVE
         FILE "Audio\03-Geet L-190803_1954.wav"
       >
-      TAKE SEL
+      TAKE
       NAME "03-Geet L-190803_1956.wav"
       TAKEVOLPAN 0 1 -1
       SOFFS 5.51723746970055
@@ -3596,6 +3596,174 @@
       RECPASS 196
       <SOURCE WAVE
         FILE "Audio\03-Geet L-190803_1956.wav"
+      >
+      TAKE
+      NAME "03-Geet L-190804_1127.wav"
+      TAKEVOLPAN 0 1 -1
+      SOFFS 2.93104699351005
+      PLAYRATE 1 1 0 -1 0 0.0025
+      CHANMODE 0
+      TAKECOLOR 32020656 R
+      GUID {7D8AAA5D-01A8-41A5-AD2D-7E9DF5A27912}
+      RECPASS 214
+      <SOURCE WAVE
+        FILE "Audio\03-Geet L-190804_1127.wav"
+      >
+      TAKE SEL
+      NAME "03-Geet L-190804_1133-02.wav"
+      TAKEVOLPAN 0 1 -1
+      SOFFS 3.10347329736493
+      PLAYRATE 1 1 0 -1 0 0.0025
+      CHANMODE 0
+      TAKECOLOR 33514392 R
+      GUID {A4914CA5-D54D-4226-99FC-1B32F50CAE31}
+      RECPASS 222
+      <SOURCE WAVE
+        FILE "Audio\03-Geet L-190804_1133-02.wav"
+      >
+    >
+    <ITEM
+      POSITION 285.86206896551727
+      SNAPOFFS 0
+      LENGTH 0.93257509454139
+      LOOP 0
+      ALLTAKES 0
+      FADEIN 1 0 0 1 0 0
+      FADEOUT 1 0 0 1 0 0
+      MUTE 0
+      SEL 0
+      IGUID {CD9BE27E-91D3-42EA-A387-5347A253311D}
+      IID 151
+      NAME "03-Geet L-190803_1949-02.wav"
+      VOLPAN 1 0 1 -1
+      SOFFS 10.51723903354445
+      PLAYRATE 1 1 0 -1 0 0.0025
+      CHANMODE 0
+      TAKECOLOR 25333970 R
+      GUID {2BFDE99C-B3B4-487A-AA04-3A10AFF3F5C7}
+      RECPASS 190
+      <SOURCE WAVE
+        FILE "Audio\03-Geet L-190803_1949-02.wav"
+      >
+      TAKE
+      NAME "03-Geet L-190803_1954.wav"
+      TAKEVOLPAN 0 1 -1
+      SOFFS 8.62068574556264
+      PLAYRATE 1 1 0 -1 0 0.0025
+      CHANMODE 0
+      TAKECOLOR 33519511 R
+      GUID {F66C2029-99F8-43C4-88B9-85B941BB189C}
+      RECPASS 194
+      <SOURCE WAVE
+        FILE "Audio\03-Geet L-190803_1954.wav"
+      >
+      TAKE SEL
+      NAME "03-Geet L-190803_1956.wav"
+      TAKEVOLPAN 0 1 -1
+      SOFFS 8.62068574556264
+      PLAYRATE 1 1 0 -1 0 0.0025
+      CHANMODE 0
+      TAKECOLOR 24542792 R
+      GUID {4A3AB2A0-FD95-4ED4-A985-05D7F407E4E8}
+      RECPASS 196
+      <SOURCE WAVE
+        FILE "Audio\03-Geet L-190803_1956.wav"
+      >
+      TAKE
+      NAME "03-Geet L-190804_1127.wav"
+      TAKEVOLPAN 0 1 -1
+      SOFFS 6.03449526937214
+      PLAYRATE 1 1 0 -1 0 0.0025
+      CHANMODE 0
+      TAKECOLOR 32020656 R
+      GUID {BBE2282F-FFA3-488C-A1BE-89D3709B5936}
+      RECPASS 214
+      <SOURCE WAVE
+        FILE "Audio\03-Geet L-190804_1127.wav"
+      >
+      TAKE
+      NAME "03-Geet L-190804_1133-02.wav"
+      TAKEVOLPAN 0 1 -1
+      SOFFS 6.20692157322702
+      PLAYRATE 1 1 0 -1 0 0.0025
+      CHANMODE 0
+      TAKECOLOR 33514392 R
+      GUID {3E8FF36E-C1BE-415E-A1BB-7106F190430B}
+      RECPASS 222
+      <SOURCE WAVE
+        FILE "Audio\03-Geet L-190804_1133-02.wav"
+      >
+    >
+    <ITEM
+      POSITION 286.79464406005866
+      SNAPOFFS 0
+      LENGTH 27.86052835373442
+      LOOP 0
+      ALLTAKES 0
+      FADEIN 1 0 0 1 0 0
+      FADEOUT 1 0 0 1 0 0
+      MUTE 0
+      SEL 0
+      IGUID {AA9C41FE-7490-4884-B5CF-D925E5D0A777}
+      IID 152
+      NAME "03-Geet L-190803_1949-02.wav"
+      VOLPAN 1 0 1 -1
+      SOFFS 11.44981412808584
+      PLAYRATE 1 1 0 -1 0 0.0025
+      CHANMODE 0
+      TAKECOLOR 25333970 R
+      GUID {11964DD9-8340-4DB3-9F92-26263CCBA808}
+      RECPASS 190
+      <SOURCE WAVE
+        FILE "Audio\03-Geet L-190803_1949-02.wav"
+      >
+      TAKE
+      NAME "03-Geet L-190803_1954.wav"
+      TAKEVOLPAN 0 1 -1
+      SOFFS 9.55326084010403
+      PLAYRATE 1 1 0 -1 0 0.0025
+      CHANMODE 0
+      TAKECOLOR 33519511 R
+      GUID {11763D62-A534-4CAC-ABD7-92BC7DE7D144}
+      RECPASS 194
+      <SOURCE WAVE
+        FILE "Audio\03-Geet L-190803_1954.wav"
+      >
+      TAKE
+      NAME "03-Geet L-190803_1956.wav"
+      TAKEVOLPAN 0 1 -1
+      SOFFS 9.55326084010403
+      PLAYRATE 1 1 0 -1 0 0.0025
+      CHANMODE 0
+      TAKECOLOR 24542792 R
+      GUID {010BCE01-F6FB-4E1C-B007-CA77F7B25473}
+      RECPASS 196
+      <SOURCE WAVE
+        FILE "Audio\03-Geet L-190803_1956.wav"
+      >
+      TAKE
+      NAME "03-Geet L-190804_1127.wav"
+      TAKEVOLPAN 0 1 -1
+      SOFFS 6.96707036391353
+      PLAYRATE 1 1 0 -1 0 0.0025
+      CHANMODE 0
+      TAKECOLOR 32020656 R
+      GUID {7D60B5D8-CA6D-4B88-BC0D-5F512D82E80B}
+      RECPASS 214
+      <SOURCE WAVE
+        FILE "Audio\03-Geet L-190804_1127.wav"
+      >
+      TAKE SEL
+      NAME "03-Geet L-190804_1133-02.wav"
+      TAKEVOLPAN 0 1 -1
+      SOFFS 7.13949666776841
+      PLAYRATE 1 1 0 -1 0 0.0025
+      CHANMODE 0
+      TAKECOLOR 33514392 R
+      GUID {6FDF6C87-602E-48BB-ABF6-30F0C04F82A8}
+      RECPASS 222
+      <SOURCE WAVE
+        FILE "Audio\03-Geet L-190804_1133-02.wav"
       >
     >
     <ITEM
@@ -3868,7 +4036,7 @@
       <SOURCE WAVE
         FILE "Audio\04-Geet R-190803_1955.wav"
       >
-      TAKE SEL
+      TAKE
       NAME "04-Geet R-190803_1958-01.wav"
       TAKEVOLPAN 0 1 -1
       SOFFS 5.51723746970055
@@ -3879,6 +4047,66 @@
       RECPASS 199
       <SOURCE WAVE
         FILE "Audio\04-Geet R-190803_1958-01.wav"
+      >
+      TAKE
+      NAME "04-Geet R-190804_1000.wav"
+      TAKEVOLPAN 0 1 -1
+      SOFFS 5.51723746970055
+      PLAYRATE 1 1 0 -1 0 0.0025
+      CHANMODE 0
+      TAKECOLOR 30818217 R
+      GUID {0A1BF089-6399-4C15-B9E7-A84A5993DB70}
+      RECPASS 200
+      <SOURCE WAVE
+        FILE "Audio\04-Geet R-190804_1000.wav"
+      >
+      TAKE
+      NAME "04-Geet R-190804_1000-01.wav"
+      TAKEVOLPAN 0 1 -1
+      SOFFS 5.51723746970055
+      PLAYRATE 1 1 0 -1 0 0.0025
+      CHANMODE 0
+      TAKECOLOR 26202653 R
+      GUID {B852C4D1-3680-4D79-9A64-F2C154CD5EDC}
+      RECPASS 201
+      <SOURCE WAVE
+        FILE "Audio\04-Geet R-190804_1000-01.wav"
+      >
+      TAKE
+      NAME "04-Geet R-190804_1001.wav"
+      TAKEVOLPAN 0 1 -1
+      SOFFS 3.00512862616313
+      PLAYRATE 1 1 0 -1 0 0.0025
+      CHANMODE 0
+      TAKECOLOR 33070758 R
+      GUID {D0CABB19-E1E2-4ED5-9A99-39D592AF570B}
+      RECPASS 202
+      <SOURCE WAVE
+        FILE "Audio\04-Geet R-190804_1001.wav"
+      >
+      TAKE
+      NAME "04-Geet R-190804_1003.wav"
+      TAKEVOLPAN 0 1 -1
+      SOFFS 5.51723746970055
+      PLAYRATE 1 1 0 -1 0 0.0025
+      CHANMODE 0
+      TAKECOLOR 27522454 R
+      GUID {386AB2FB-EC4B-45A2-A80B-0D2BA28705C7}
+      RECPASS 204
+      <SOURCE WAVE
+        FILE "Audio\04-Geet R-190804_1003.wav"
+      >
+      TAKE SEL
+      NAME "04-Geet R-190804_1129-02.wav"
+      TAKEVOLPAN 0 1 -1
+      SOFFS 3.10347329736493
+      PLAYRATE 1 1 0 -1 0 0.0025
+      CHANMODE 0
+      TAKECOLOR 25973503 R
+      GUID {5E61010C-4486-4917-8BF1-C0ECAF49B8E6}
+      RECPASS 217
+      <SOURCE WAVE
+        FILE "Audio\04-Geet R-190804_1129-02.wav"
       >
     >
     <ITEM
@@ -3903,6 +4131,11 @@
       RECPASS 191
       <SOURCE EMPTY
       >
+      TAKE NULL
+      TAKE NULL
+      TAKE NULL
+      TAKE NULL
+      TAKE NULL
       TAKE NULL
       TAKE NULL
     >
