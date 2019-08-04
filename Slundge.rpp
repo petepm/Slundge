@@ -1,4 +1,4 @@
-<REAPER_PROJECT 0.1 "5.981/x64" 1564855346
+<REAPER_PROJECT 0.1 "5.981/x64" 1564877895
   RIPPLE 0
   GROUPOVERRIDE 0 0 0
   AUTOXFADE 1
@@ -14,8 +14,8 @@
   TIMEMODE 1 5 -1 30 0
   VIDEO_CONFIG 0 0 256
   PANMODE 3
-  CURSOR 233.10344827586206
-  ZOOM 50.47430264511604 11382 0
+  CURSOR 282.95719809204576
+  ZOOM 1094.595994257875 309519 0
   VZOOMEX 15
   USE_REC_CFG 0
   RECMODE 0
@@ -46,7 +46,7 @@
     ZXZhdxgAAA==
   >
   LOCK 1
-  <METRONOME 7 2
+  <METRONOME 6 2
     VOL 0.669861 0.33493
     FREQ 800 1600 1
     BEATLEN 4
@@ -115,7 +115,7 @@
     REC 1 5088 1 7 0 0 0
     AUTO_RECARM 1
     VU 2
-    TRACKHEIGHT 0 0 0
+    TRACKHEIGHT 666 0 0
     INQ 0 0 0 0.5 100 0 0 100
     NCHAN 2
     FX 1
@@ -1954,7 +1954,7 @@
       FADEIN 1 0 0 1 0 0
       FADEOUT 1 0 0 1 0 0
       MUTE 0
-      SEL 1
+      SEL 0
       IGUID {915D5FC0-C5C7-4263-89DA-1A19D449CF19}
       IID 110
       NAME "Drummah untitled MIDI item-glued"
@@ -1984,21 +1984,23 @@
         E 178 80 1e 00
         E 889 90 1e 56
         E 240 80 1e 00
-        E 815 90 1d 28
-        E 231 80 1d 00
-        E 634 90 1e 56
+        E 705 90 24 7f
+        E 31 90 1d 28
+        E 214 80 24 00
+        E 17 80 1d 00
+        E 713 90 1e 56
         E 0 90 26 7f
         E 240 80 1e 00
         E 0 80 26 00
         E 904 90 1d 28
         E 243 80 1d 00
-        E 832 90 1e 42
-        E 240 80 1e 00
-        E 744 90 24 5d
-        E 32 90 1d 4f
+        E 791 90 1b 70
+        E 240 80 1b 00
+        E 785 90 24 76
+        E 32 90 1d 66
         E 207 80 1d 00
         E 1 80 24 00
-        E 750 90 24 69
+        E 750 90 24 7c
         E 12 90 1c 7f
         E 228 80 24 00
         E 12 80 1c 00
@@ -2008,16 +2010,18 @@
         E 0 80 1e 00
         E 863 90 1e 66
         E 240 80 1e 00
-        E 462 90 24 6b
-        E 187 80 24 00
-        E 25 90 26 7f
-        E 0 90 1d 7f
-        E 240 80 26 00
-        E 0 80 1d 00
-        E 623 90 1e 5e
+        E 439 90 24 6b
+        E 169 80 24 00
+        E 66 90 1d 7f
+        E 11 90 26 7f
+        E 229 80 1d 00
+        E 11 80 26 00
+        E 612 90 1e 5e
         E 240 80 1e 00
-        E 720 90 24 69
-        E 240 80 24 00
+        E 720 90 24 77
+        E 26 90 1d 77
+        E 201 80 1d 00
+        E 13 80 24 00
         E 720 90 24 7f
         E 0 90 1e 7f
         E 240 80 24 00
@@ -2027,40 +2031,42 @@
         E 765 90 1e 51
         E 240 80 1e 00
         E 829 90 1e 29
+        E 18 90 24 6b
+        E 222 80 1e 00
+        E 7 80 24 00
+        E 687 90 1c 7f
+        E 22 90 26 7f
+        E 218 80 1c 00
+        E 22 80 26 00
+        E 759 90 1e 36
+        E 253 80 1e 00
+        E 910 90 1e 36
         E 240 80 1e 00
-        E 845 90 26 7f
-        E 0 90 1c 7f
-        E 240 80 26 00
-        E 0 80 1c 00
-        E 1564 90 1e 36
-        E 240 80 1e 00
-        E 1085 90 24 7f
+        E 672 90 24 7f
         E 0 90 1c 6b
         E 240 80 24 00
         E 0 80 1c 00
-        E 1009 90 24 7f
+        E 925 90 24 7f
         E 30 90 1e 7f
         E 210 80 24 00
         E 66 80 1e 00
-        E 842 90 24 7f
+        E 1036 90 24 7f
         E 33 90 1b 7f
         E 207 80 24 00
         E 22 80 1b 00
-        E 734 90 1e 5f
+        E 808 90 1e 5f
         E 292 80 1e 00
         E 632 90 26 7f
-        E 0 90 24 7f
         E 52 90 1d 7f
         E 188 80 26 00
-        E 0 80 24 00
         E 9 80 1d 00
         E 729 90 1e 5a
         E 253 80 1e 00
-        E 689 90 24 58
-        E 50 90 1f 6b
+        E 621 90 24 74
+        E 50 90 1f 77
         E 190 80 24 00
         E 15 80 1f 00
-        E 705 90 24 7f
+        E 773 90 24 7f
         E 37 90 20 7f
         E 203 80 24 00
         E 50 80 20 00
@@ -2069,8 +2075,10 @@
         E 1010 90 1f 61
         E 237 80 1f 00
         E 715 90 1d 31
-        E 196 80 1d 00
-        E 848 90 26 7f
+        E 59 90 24 68
+        E 137 80 1d 00
+        E 77 80 24 00
+        E 771 90 26 7f
         E 1 90 1f 61
         E 237 80 1f 00
         E 2 80 26 00
@@ -2102,12 +2110,10 @@
         E 32 90 1d 39
         E 196 80 1d 00
         E 12 80 24 00
-        E 720 90 24 7f
-        E 0 90 26 7f
+        E 720 90 26 7f
         E 46 90 1f 7f
         E 183 80 1f 00
-        E 11 80 24 00
-        E 0 80 26 00
+        E 11 80 26 00
         E 722 90 1f 43
         E 213 80 1f 00
         E 775 90 1e 40
@@ -2178,7 +2184,7 @@
         IGNTEMPO 0 120 4 4
         SRCCOLOR 10
         VELLANE -1 156 0
-        CFGEDITVIEW -31159.347677 0.012803 50 12 0 -1 0 0 0 0.5
+        CFGEDITVIEW -5074.280057 0.017051 46 12 0 -1 0 0 0 0.5
         KEYSNAP 0
         TRACKSEL 269
         EVTFILTER 0 -1 -1 -1 -1 0 0 0 0 -1 -1 -1 -1 0 -1 0 -1 -1
@@ -2386,33 +2392,99 @@
       >
     >
     <ITEM
-      POSITION 284.31034482758622
+      POSITION 283.10344827586209
       SNAPOFFS 0
-      LENGTH 355.68965517241378
+      LENGTH 356.89655172413791
       LOOP 0
       ALLTAKES 0
       FADEIN 1 0 0 1 0 0
       FADEOUT 1 0 0 1 0 0
       MUTE 0
-      SEL 0
+      SEL 1
       IGUID {1B10E06A-90F1-469C-AD48-8A702307EE48}
       IID 105
       NAME "Drummah untitled MIDI item"
       VOLPAN 1 0 1 -1
-      SOFFS 0.00035919540221 0.00104166666642
+      SOFFS 0 0
       PLAYRATE 1 1 0 -1 0 0.0025
       CHANMODE 0
       GUID {5A447450-6485-4A19-BF18-E0249F0CF3FB}
       <SOURCE MIDI
         HASDATA 1 960 QN
         POOLEDEVTS {7F11C3A7-2BF8-4FA4-A989-70437E6D8953}
-        E 990241 b0 7b 00
+        E 0 90 24 7f
+        E 26 90 1e 7f
+        E 320 80 24 00
+        E 78 80 1e 00
+        E 1528 90 24 7f
+        E 148 80 24 00
+        E 71 90 24 7f
+        E 159 80 24 00
+        E 65 90 26 7f
+        E 17 90 1b 7f
+        E 184 80 26 00
+        E 193 80 1b 00
+        E 423 90 1a 7f
+        E 314 80 1a 00
+        E 113 90 24 7f
+        E 219 80 24 00
+        E 465 90 1d 7f
+        E 335 80 1d 00
+        E 150 90 24 7f
+        E 22 90 1b 7f
+        E 208 80 24 00
+        E 200 80 1b 00
+        E 685 90 1d 7f
+        E 277 80 1d 00
+        E 990 90 24 7f
+        E 13 90 1c 7f
+        E 11 90 26 7f
+        E 165 80 26 00
+        E 18 80 24 00
+        E 19 80 1c 00
+        E 402 90 24 7f
+        E 200 80 24 00
+        E 396 90 24 7f
+        E 20 90 1e 7f
+        E 181 80 1e 00
+        E 11 80 24 00
+        E 419 90 29 7f
+        E 6 90 24 7f
+        E 212 80 24 00
+        E 33 80 29 00
+        E 534 90 1b 7f
+        E 6 90 24 7f
+        E 191 80 1b 00
+        E 39 80 24 00
+        E 504 90 1d 7f
+        E 3 90 24 7f
+        E 213 80 24 00
+        E 43 80 1d 00
+        E 767 90 1b 7f
+        E 212 80 1b 00
+        E 713 90 24 7f
+        E 142 80 24 00
+        E 64 90 24 7f
+        E 118 80 24 00
+        E 120 90 1b 7f
+        E 10 90 26 7f
+        E 189 80 26 00
+        E 44 80 1b 00
+        E 521 90 1b 7f
+        E 248 80 1b 00
+        E 202 90 24 7f
+        E 201 80 24 00
+        E 412 90 1b 7f
+        E 283 80 1b 00
+        E 302 90 24 7f
+        E 177 80 24 00
+        E 978046 b0 7b 00
         CHASE_CC_TAKEOFFS 1
         GUID {6CDA21F1-15DA-4674-8277-71E133BEFA6F}
         IGNTEMPO 0 120 4 4
         SRCCOLOR 4
         VELLANE -1 156 0
-        CFGEDITVIEW 0 0.030373 65 16 0 -1 0 0 0 0.5
+        CFGEDITVIEW -3321.610569 0.05387 57 16 0 -1 46 0 0 0.5
         KEYSNAP 0
         TRACKSEL 269
         EVTFILTER 0 -1 -1 -1 -1 0 0 0 0 -1 -1 -1 -1 0 -1 0 -1 -1
@@ -3058,7 +3130,7 @@
     <ITEM
       POSITION 232.29134042121851
       SNAPOFFS 0
-      LENGTH 50.81210785464359
+      LENGTH 50.46728026843667
       LOOP 0
       ALLTAKES 0
       FADEIN 1 0 0 1 0 0
@@ -3078,11 +3150,12 @@
       <SOURCE WAVE
         FILE "Audio\03-Geet L-190803_1311.wav"
       >
+      TAKE NULL
     >
     <ITEM
-      POSITION 283.10344827586209
+      POSITION 282.75862068965517
       SNAPOFFS 0
-      LENGTH 270.30548757652844
+      LENGTH 31.89655172413791
       LOOP 0
       ALLTAKES 0
       FADEIN 1 0 0 1 0 0
@@ -3091,16 +3164,63 @@
       SEL 0
       IGUID {8210C9CA-664F-4D75-8CE1-E7363DAD51F4}
       IID 103
-      NAME "03-Geet L-190803_1311.wav"
+      NAME "03-Geet L-190803_1949-02.wav"
       VOLPAN 1 0 1 -1
-      SOFFS 55.52941199468296
+      SOFFS 7.41379075768236
+      PLAYRATE 1 1 0 -1 0 0.0025
+      CHANMODE 0
+      TAKECOLOR 25333970 R
+      GUID {23DA195B-5199-458A-917C-CCB0E957AA1F}
+      RECPASS 190
+      <SOURCE WAVE
+        FILE "Audio\03-Geet L-190803_1949-02.wav"
+      >
+      TAKE
+      NAME "03-Geet L-190803_1954.wav"
+      TAKEVOLPAN 0 1 -1
+      SOFFS 5.51723746970055
+      PLAYRATE 1 1 0 -1 0 0.0025
+      CHANMODE 0
+      TAKECOLOR 33519511 R
+      GUID {FDEC0B0E-3AF7-4ECB-BA8F-E6CA8E655C86}
+      RECPASS 194
+      <SOURCE WAVE
+        FILE "Audio\03-Geet L-190803_1954.wav"
+      >
+      TAKE SEL
+      NAME "03-Geet L-190803_1956.wav"
+      TAKEVOLPAN 0 1 -1
+      SOFFS 5.51723746970055
+      PLAYRATE 1 1 0 -1 0 0.0025
+      CHANMODE 0
+      TAKECOLOR 24542792 R
+      GUID {469D28EF-F358-4205-A08B-26CFE55177DB}
+      RECPASS 196
+      <SOURCE WAVE
+        FILE "Audio\03-Geet L-190803_1956.wav"
+      >
+    >
+    <ITEM
+      POSITION 314.65517241379308
+      SNAPOFFS 0
+      LENGTH 238.75376343859745
+      LOOP 0
+      ALLTAKES 0
+      FADEIN 1 0 0 1 0 0
+      FADEOUT 1 0 0 1 0 0
+      MUTE 0
+      SEL 0
+      IGUID {36378BC3-71D3-49E3-A2E1-52161052B4EB}
+      IID 139
+      NAME Empty
+      VOLPAN 1 0 1 -1
+      SOFFS 87.08113613261395
       PLAYRATE 1 1 0 -1 0 0.0025
       CHANMODE 0
       TAKECOLOR 29057561 R
-      GUID {E504F46A-F51A-4CCE-A049-65E9B24522A8}
+      GUID {1025AD5D-0352-40AF-8E9C-4C617643F1C7}
       RECPASS 183
-      <SOURCE WAVE
-        FILE "Audio\03-Geet L-190803_1311.wav"
+      <SOURCE EMPTY
       >
     >
   >
@@ -3110,7 +3230,7 @@
     BEAT -1
     AUTOMODE 0
     VOLPAN 1.18169906277985 1 -1 -1 1
-    MUTESOLO 0 0 0
+    MUTESOLO 1 0 0
     IPHASE 0
     ISBUS 0 0
     BUSCOMP 0 0
@@ -3293,7 +3413,7 @@
     <ITEM
       POSITION 232.29134042121851
       SNAPOFFS 0
-      LENGTH 50.81210785464359
+      LENGTH 50.46728026843667
       LOOP 0
       ALLTAKES 0
       FADEIN 1 0 0 1 0 0
@@ -3313,11 +3433,12 @@
       <SOURCE WAVE
         FILE "Audio\04-Geet R-190803_1313.wav"
       >
+      TAKE NULL
     >
     <ITEM
-      POSITION 283.10344827586209
+      POSITION 282.75862068965517
       SNAPOFFS 0
-      LENGTH 270.65001216758105
+      LENGTH 31.89655172413791
       LOOP 0
       ALLTAKES 0
       FADEIN 1 0 0 1 0 0
@@ -3326,17 +3447,66 @@
       SEL 0
       IGUID {694E7609-FA7B-4D37-9C35-775BC5F0ADC8}
       IID 111
-      NAME "04-Geet R-190803_1313.wav"
+      NAME "04-Geet R-190803_1951.wav"
       VOLPAN 1 0 1 -1
-      SOFFS 55.09471811713195
+      SOFFS 6.89655719759168
       PLAYRATE 1 1 0 -1 0 0.0025
       CHANMODE 0
-      TAKECOLOR 32661357 R
-      GUID {0B543DE2-F75D-4CC2-937B-A97353F8AE74}
-      RECPASS 184
+      TAKECOLOR 25496526 R
+      GUID {136EEEE4-9422-4455-8C04-D1767B7CD017}
+      RECPASS 191
       <SOURCE WAVE
-        FILE "Audio\04-Geet R-190803_1313.wav"
+        FILE "Audio\04-Geet R-190803_1951.wav"
       >
+      TAKE
+      NAME "04-Geet R-190803_1955.wav"
+      TAKEVOLPAN 0 1 -1
+      SOFFS 5.51723746970055
+      PLAYRATE 1 1 0 -1 0 0.0025
+      CHANMODE 0
+      TAKECOLOR 19234200 R
+      GUID {65AEFB2E-C4AC-4E58-A27F-F994F9BA6000}
+      RECPASS 195
+      <SOURCE WAVE
+        FILE "Audio\04-Geet R-190803_1955.wav"
+      >
+      TAKE SEL
+      NAME "04-Geet R-190803_1958-01.wav"
+      TAKEVOLPAN 0 1 -1
+      SOFFS 5.51723746970055
+      PLAYRATE 1 1 0 -1 0 0.0025
+      CHANMODE 0
+      TAKECOLOR 32997320 R
+      GUID {78634CAD-705A-4286-A01B-0A5B3928DA2C}
+      RECPASS 199
+      <SOURCE WAVE
+        FILE "Audio\04-Geet R-190803_1958-01.wav"
+      >
+    >
+    <ITEM
+      POSITION 314.65517241379308
+      SNAPOFFS 0
+      LENGTH 239.09828802965006
+      LOOP 0
+      ALLTAKES 0
+      FADEIN 1 0 0 1 0 0
+      FADEOUT 1 0 0 1 0 0
+      MUTE 0
+      SEL 0
+      IGUID {1CA6DB7B-6152-4F16-8EE0-981FBD519369}
+      IID 140
+      NAME Empty
+      VOLPAN 1 0 1 -1
+      SOFFS 38.79310892172958
+      PLAYRATE 1 1 0 -1 0 0.0025
+      CHANMODE 0
+      TAKECOLOR 25496526 R
+      GUID {A7BFBCDA-F165-446A-8187-E1673F3440BC}
+      RECPASS 191
+      <SOURCE EMPTY
+      >
+      TAKE NULL
+      TAKE NULL
     >
   >
 >
