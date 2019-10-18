@@ -1,4 +1,4 @@
-<REAPER_PROJECT 0.1 "5.983/x64" 1569188850
+<REAPER_PROJECT 0.1 "5.984/x64" 1571435295
   RIPPLE 0
   GROUPOVERRIDE 0 0 0
   AUTOXFADE 1
@@ -14,9 +14,9 @@
   TIMEMODE 1 5 -1 30 0 0 -1
   VIDEO_CONFIG 0 0 256
   PANMODE 3
-  CURSOR 102.06896551724138
-  ZOOM 1.65356763768508 0 0
-  VZOOMEX 7
+  CURSOR 374.07537836858484
+  ZOOM 25.47655226885183 8838 0
+  VZOOMEX 5
   USE_REC_CFG 0
   RECMODE 0
   SMPTESYNC 0 30 100 40 1000 300 0 0 1 0 0
@@ -46,7 +46,7 @@
     bDNwbcAAAAAAAAAAAgAAAP////8EAAAAwAAAAAAAAAA=
   >
   LOCK 1
-  <METRONOME 7 2
+  <METRONOME 6 2
     VOL 0.669861 0.33493
     FREQ 800 1600 1
     BEATLEN 4
@@ -111,8 +111,8 @@
     BUSCOMP 0 0
     SHOWINMIX 1 0.6667 0.5 1 0.5 0 0 0
     FREEMODE 0
-    SEL 0
-    REC 0 5088 1 7 0 0 0
+    SEL 1
+    REC 1 5088 1 7 0 0 0
     AUTO_RECARM 1
     VU 2
     TRACKHEIGHT 0 0 0
@@ -2572,7 +2572,7 @@
     <ITEM
       POSITION 283.10344827586209
       SNAPOFFS 0
-      LENGTH 89.60052893084605
+      LENGTH 75.51724137931035
       LOOP 0
       ALLTAKES 0
       FADEIN 1 0 0 1 0 0
@@ -2876,7 +2876,7 @@
         E 182 80 20 00
         E 4 80 1b 00
         E 22 80 24 00
-        E 192552 b0 7b 00
+        E 153344 b0 7b 00
         CHASE_CC_TAKEOFFS 1
         GUID {6CDA21F1-15DA-4674-8277-71E133BEFA6F}
         IGNTEMPO 0 120 4 4
@@ -2887,6 +2887,274 @@
         TRACKSEL 269
         EVTFILTER 0 -1 -1 -1 -1 0 0 0 0 -1 -1 -1 -1 0 -1 0 -1 -1
         CFGEDIT 1 1 0 1 0 0 1 0 1 0 1 0.25 38 12 1912 1116 0 0 0 0 0 0 0 1 0 0 0 0 1 64
+      >
+    >
+    <ITEM
+      POSITION 365.32613613261401
+      SNAPOFFS 0
+      LENGTH 28.8194420989106
+      LOOP 0
+      ALLTAKES 0
+      FADEIN 1 0 0 1 0 0
+      FADEOUT 1 0 0 1 0 0
+      MUTE 0
+      SEL 1
+      IGUID {F7C2C8E2-9EBE-459C-A243-657D50B27071}
+      IID 298
+      NAME "Drummah untitled MIDI item"
+      VOLPAN 1 0 1 -1
+      SOFFS 3.94683908045982 11.44583333333344
+      PLAYRATE 1 1 0 -1 0 0.0025
+      CHANMODE 0
+      GUID {46E7A8CD-6E03-4E41-BB55-0E4DA4B5C450}
+      <SOURCE MIDI
+        HASDATA 1 960 QN
+        POOLEDEVTS {5355E713-717C-484A-A11B-BDDFA8F739B2}
+        E 10988 90 26 4d
+        E 172 80 26 40
+        E 351 90 26 49
+        E 135 80 26 40
+        E 311 90 26 4b
+        E 153 80 26 40
+        E 310 90 26 45
+        E 134 80 26 40
+        E 316 90 26 45
+        E 144 80 26 40
+        E 315 90 26 49
+        E 169 80 26 40
+        E 341 90 26 49
+        E 136 80 26 40
+        E 329 90 26 4d
+        E 151 80 26 40
+        E 353 90 26 5a
+        E 145 80 26 40
+        E 331 90 26 60
+        E 181 80 26 40
+        E 347 90 26 60
+        E 167 80 26 40
+        E 306 90 26 63
+        E 163 80 26 40
+        E 330 90 26 6a
+        E 199 80 26 40
+        E 283 90 26 6e
+        E 190 80 26 40
+        E 260 90 26 6a
+        E 203 80 26 40
+        E 268 90 26 6e
+        E 223 80 26 40
+        E 307 90 26 6e
+        E 216 80 26 40
+        E 271 90 26 6e
+        E 213 80 26 40
+        E 280 90 26 6e
+        E 185 80 26 40
+        E 280 90 26 60
+        E 180 80 26 40
+        E 287 90 26 6a
+        E 213 80 26 40
+        E 274 90 26 5a
+        E 288 80 26 40
+        E 197 90 26 67
+        E 283 80 26 00
+        E 263 90 26 67
+        E 197 80 26 00
+        E 218 90 24 7f
+        E 25 90 1e 67
+        E 403 80 1e 00
+        E 52 80 24 00
+        E 598 90 1e 43
+        E 339 80 1e 00
+        E 132 90 24 74
+        E 445 80 24 40
+        E 107 90 26 7f
+        E 1 90 1e 67
+        E 429 80 1e 00
+        E 436 80 26 40
+        E 597 90 24 78
+        E 2 90 1e 43
+        E 339 80 1e 00
+        E 13 80 24 40
+        E 613 90 24 78
+        E 532 90 26 7f
+        E 33 80 24 40
+        E 29 90 1e 43
+        E 530 80 1e 00
+        E 22 80 26 40
+        E 328 90 24 7f
+        E 27 90 1e 43
+        E 477 80 1e 00
+        E 6 80 24 40
+        E 301 90 1b 64
+        E 488 80 1b 00
+        E 124 90 24 7f
+        E 575 90 26 7f
+        E 91 80 24 40
+        E 715 80 26 40
+        E 155 90 1b 64
+        E 10 90 24 7f
+        E 520 80 1b 00
+        E 222 80 24 40
+        E 712 90 24 7f
+        E 545 80 24 40
+        E 253 90 1b 64
+        E 574 80 1b 00
+        E 114 90 26 7f
+        E 618 80 26 40
+        E 312 90 1b 7f
+        E 357 80 1b 00
+        E 311 90 1e 60
+        E 14 90 24 7f
+        E 328 80 24 40
+        E 62 80 1e 00
+        E 687 90 1e 76
+        E 319 80 1e 00
+        E 132 90 24 76
+        E 216 80 24 00
+        E 278 90 26 7f
+        E 61 90 1e 76
+        E 323 80 26 40
+        E 16 80 1e 00
+        E 125 90 24 7f
+        E 304 80 24 40
+        E 668 90 24 7f
+        E 402 80 24 40
+        E 557 90 24 78
+        e 517 90 26 7f
+        E 89 80 24 40
+        e 607 80 26 40
+        E 249 90 24 7f
+        E 742 80 24 40
+        E 791 90 24 78
+        E 586 90 26 7f
+        E 125 80 24 40
+        E 842 90 24 7f
+        E 18 80 26 40
+        E 605 80 24 40
+        E 813 90 24 7f
+        E 664 80 24 40
+        E 815 90 26 7f
+        E 1265 80 26 40
+        E 239 90 24 7f
+        E 321 80 24 40
+        E 700 90 24 7f
+        E 349 80 24 40
+        E 198 90 26 7f
+        E 541 90 24 7f
+        E 21 80 26 40
+        E 306 80 24 40
+        E 665 90 24 7f
+        E 468 80 24 40
+        E 490 90 24 7f
+        E 247 80 24 00
+        E 268 90 26 7f
+        E 619 80 26 40
+        E 443 90 24 7f
+        E 310 80 24 40
+        E 1119 90 26 7f
+        E 682 80 26 40
+        E 785 90 24 7f
+        E 446 80 24 40
+        E 521 90 24 7f
+        E 437 80 24 40
+        E 962 90 24 7f
+        E 386 80 24 40
+        E 147 90 26 7f
+        E 714 80 26 40
+        E 225 90 24 7f
+        E 360 80 24 40
+        E 659 90 26 7f
+        E 387 80 26 40
+        E 126 90 24 7f
+        E 137 80 24 40
+        E 352 90 24 78
+        E 157 80 24 40
+        E 318 90 24 7f
+        E 250 80 24 40
+        E 236 90 24 7f
+        E 224 80 24 40
+        E 271 90 24 7f
+        E 580 80 24 40
+        E 428 90 24 7f
+        E 223 80 24 40
+        E 234 90 24 7f
+        E 600 80 24 40
+        E 889 90 24 7f
+        E 549 90 26 7f
+        E 545 80 24 40
+        E 98 80 26 40
+        E 845 90 24 7f
+        E 357 80 24 40
+        E 653 90 24 7f
+        E 523 90 26 7f
+        E 2 80 24 40
+        E 579 80 26 40
+        E 432 90 24 7f
+        E 324 80 24 40
+        E 696 90 24 7f
+        E 345 80 24 40
+        E 113 90 26 7f
+        E 906 80 26 40
+        E 95 90 24 7f
+        E 434 80 24 40
+        E 539 90 26 78
+        E 75 80 26 40
+        E 162 90 26 78
+        E 183 80 26 40
+        E 94 90 24 7f
+        E 177 80 24 40
+        E 55 90 26 7f
+        E 142 80 26 40
+        E 90 90 24 7f
+        E 197 80 24 40
+        E 0 90 26 78
+        E 106 80 26 40
+        E 170 90 26 78
+        E 209 80 26 40
+        E 54 90 24 7f
+        E 167 80 24 40
+        E 68 90 26 78
+        E 147 80 26 40
+        E 101 90 24 7f
+        E 224 90 26 78
+        E 10 80 24 40
+        E 83 80 26 40
+        E 192 90 26 78
+        E 213 80 26 40
+        E 84 90 24 7f
+        E 184 80 24 40
+        E 22 90 26 7f
+        E 199 80 26 40
+        E 106 90 24 7f
+        E 247 80 24 40
+        E 18 90 26 7f
+        E 124 80 26 40
+        E 171 90 26 78
+        E 222 80 26 40
+        E 43 90 24 7f
+        E 232 80 24 40
+        E 46 90 28 7f
+        E 2 90 26 7f
+        E 176 80 28 40
+        E 35 80 26 40
+        E 1214 90 24 7f
+        E 327 80 24 40
+        E 2103 90 24 7f
+        E 375 80 24 40
+        E 1455 90 24 7f
+        E 289 80 24 40
+        E 1719 90 24 7f
+        E 221 80 24 40
+        E 2325 b0 7b 00
+        CHASE_CC_TAKEOFFS 1
+        GUID {B40156D8-C4F5-4EC6-BAED-71E0544E6CAA}
+        IGNTEMPO 0 120 4 4
+        SRCCOLOR 22
+        VELLANE -1 156 0
+        CFGEDITVIEW 29023.023048 0.033802 46 12 0 -1 0 0 0 0.5
+        KEYSNAP 0
+        TRACKSEL 269
+        EVTFILTER 0 -1 -1 -1 -1 0 0 0 0 -1 -1 -1 -1 0 -1 0 -1 -1
+        CFGEDIT 1 1 0 1 0 0 1 0 1 0 0 0.25 54 28 1912 1116 0 0 0 0 0 0 0 1 0 0 0 0 1 64
       >
     >
   >
@@ -2906,7 +3174,7 @@
     REC 0 1 0 0 0 0 0
     AUTO_RECARM 1
     VU 2
-    TRACKHEIGHT 469 0 0
+    TRACKHEIGHT 0 0 0
     INQ 0 0 0 0.5 100 0 0 100
     NCHAN 2
     FX 1
@@ -3626,8 +3894,8 @@
     BUSCOMP 0 0
     SHOWINMIX 1 0.6667 0.5 1 0.5 0 0 0
     FREEMODE 0
-    SEL 1
-    REC 1 1 0 0 0 0 0
+    SEL 0
+    REC 0 1 0 0 0 0 0
     AUTO_RECARM 1
     VU 2
     TRACKHEIGHT 0 0 0
@@ -3791,7 +4059,7 @@
     REC 0 1 0 0 0 0 0
     AUTO_RECARM 1
     VU 2
-    TRACKHEIGHT 310 0 0
+    TRACKHEIGHT 0 0 0
     INQ 0 0 0 0.5 100 0 0 100
     NCHAN 2
     FX 1
@@ -4425,7 +4693,7 @@
     REC 0 1 0 0 0 0 0
     AUTO_RECARM 1
     VU 2
-    TRACKHEIGHT 256 0 0
+    TRACKHEIGHT 0 0 0
     INQ 0 0 0 0.5 100 0 0 100
     NCHAN 2
     FX 1
@@ -4709,11 +4977,14 @@
       <SOURCE WAVE
         FILE "Audio\06-Geet R-190922_1707.wav"
       >
+      TAKE NULL
+      TAKE NULL
+      TAKE NULL
     >
     <ITEM
       POSITION 364.13793103448273
       SNAPOFFS 0
-      LENGTH 90.68965517241384
+      LENGTH 28.96551724137936
       LOOP 0
       ALLTAKES 0
       FADEIN 1 0 0 1 0 0
@@ -4739,7 +5010,7 @@
       TAKE NULL
       TAKE NULL
       TAKE NULL
-      TAKE SEL
+      TAKE
       NAME "06-Geet R-190922_1707.wav"
       TAKEVOLPAN 0 1 -1
       SOFFS 63.44827117053717
@@ -4751,6 +5022,77 @@
       <SOURCE WAVE
         FILE "Audio\06-Geet R-190922_1707.wav"
       >
+      TAKE
+      NAME "06-Geet R-191018_1723.wav"
+      TAKEVOLPAN 0 1 -1
+      SOFFS 1.05083352881383
+      PLAYRATE 1 1 0 -1 0 0.0025
+      CHANMODE 0
+      TAKECOLOR 27152895 R
+      GUID {16DB319B-2C1D-4892-BFC9-D3E8F5392FF2}
+      RECPASS 264
+      <SOURCE WAVE
+        FILE "Audio\06-Geet R-191018_1723.wav"
+      >
+      TAKE
+      NAME "06-Geet R-191018_1724-01.wav"
+      TAKEVOLPAN 0 1 -1
+      SOFFS 2.58620767847367
+      PLAYRATE 1 1 0 -1 0 0.0025
+      CHANMODE 0
+      TAKECOLOR 22449563 R
+      GUID {9245DEC1-C3E6-492E-BD7D-1214A08C48B8}
+      RECPASS 267
+      <SOURCE WAVE
+        FILE "Audio\06-Geet R-191018_1724-01.wav"
+      >
+      TAKE SEL
+      NAME "06-Geet R-191018_1726.wav"
+      TAKEVOLPAN 0 1 -1
+      SOFFS 2.34813511611537
+      PLAYRATE 1 1 0 -1 0 0.0025
+      CHANMODE 0
+      TAKECOLOR 31157877 R
+      GUID {A42AAA4C-0D53-4C3F-AE21-2BF44CA49A78}
+      RECPASS 268
+      <SOURCE WAVE
+        FILE "Audio\06-Geet R-191018_1726.wav"
+      >
+    >
+    <ITEM
+      POSITION 393.10344827586209
+      SNAPOFFS 0
+      LENGTH 61.72413793103448
+      LOOP 0
+      ALLTAKES 0
+      FADEIN 1 0 0 1 0 0
+      FADEOUT 1 0 0 1 0 0
+      MUTE 0
+      SEL 0
+      IGUID {B58E7CE8-0A97-4DCE-9420-6E36F228C595}
+      IID 295
+      NAME "06-Geet R-190922_1707.wav"
+      VOLPAN 1 0 1 -1
+      SOFFS 92.41378841191653
+      PLAYRATE 1 1 0 -1 0 0.0025
+      CHANMODE 0
+      TAKECOLOR 22571120 R
+      GUID {8485CF93-3CA0-4A6F-A043-6F0DCB4E445A}
+      RECPASS 260
+      <SOURCE WAVE
+        FILE "Audio\06-Geet R-190922_1707.wav"
+      >
+      TAKE NULL
+      TAKE NULL
+      TAKE NULL
+      TAKE NULL
+      TAKE NULL
+      TAKE NULL
+      TAKE NULL
+      TAKE NULL
+      TAKE NULL
+      TAKE NULL
+      TAKE NULL
     >
   >
 >
