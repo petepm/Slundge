@@ -2,7 +2,18 @@
 
 ## Solo break
 
-In the solo break we have a drum part with a bit of an oscillating period.
+Because who wants some boring-ass normal beat?
+I was brainstorming a way to make this part interesting when I stumbled upon
+some Mattias IA Eklundh videos on YouTube (finally the algorithm did something
+other than create right-wing extremists!)
+He has a tune with a part that "compresses," or gets faster over time.
+In that vein, I decided to make this part compress and "rarify"
+in a systematic and somewhat meaningful manner.
+
+Some of the themes in the lyrics of this tune involve continuum or fluid
+mechanics, so I was looking for a way to encode something relevant from that
+field; maybe an important equation and/or its solution.
+
 It "breathes" a bit, but at different wavelengths on different drums.
 Sort of like the Orbitz in Bugz, except rather than keeping the periods
 constant but in specified ratios, they change with their own periods.
