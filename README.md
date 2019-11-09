@@ -32,3 +32,14 @@ Then with the cymbals, we have...
 I originally recorded the second verse sort of ignoring the click, and it just
 kind of happened to feel like 4 under 5, i.e., 4 beats of verse taking up the
 same time as 5 beats of the normal tempo. This works out to 139.2 BPM.
+
+Turns out that was wrong though, and it really felt right as 3/5 the main
+tempo, which sort of makes it like the verse tempo is a minor 3rd of the
+main tempo. Is that lame? I don't know.
+Is there something theoretically meaningful about it?
+Should tempo changes be "harmonic" or "functional?"
+The chords are I, I+4, I+2(sus?), iii+9.
+Doesn't seem like there's a connection.
+
+I really need to start writing songs without so many tempo changes because it
+really slows things down---no pun intended.
