@@ -89,7 +89,7 @@ That stuff made me so tired
 Something about specialization
 
 
-##Chorus
+## Chorus
 
 Something something never ends
 Something something my revenge
