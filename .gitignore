@@ -2,3 +2,5 @@
 !.gitignore
 !*.rpp
 !*.md
+!Composition/*.ipynb
+!Composition/*.md

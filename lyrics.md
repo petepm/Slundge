@@ -92,7 +92,7 @@ Something about specialization
 ## Chorus
 
 Something something never ends
-Something something my revenge
+Something something not revenge
 
 Accepted who I'm gonna be
 Melting in obscurity
