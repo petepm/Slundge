@@ -4,8 +4,7 @@
 
 Because who wants some boring-ass normal beat?
 I was brainstorming a way to make this part interesting when I stumbled upon
-some Mattias IA Eklundh videos on YouTube (finally the algorithm did something
-other than create right-wing extremists!)
+some Mattias IA Eklundh videos on YouTube.
 He has a tune with a part that "compresses," or gets faster over time.
 In that vein, I decided to make this part compress and "rarify"
 in a systematic and somewhat meaningful manner.
