@@ -45,3 +45,17 @@ Doesn't seem like there's a connection.
 
 I really need to start writing songs without so many tempo changes because it
 really slows things down---no pun intended.
+
+
+## Nu-metal-Dream-Theater-Steve-Vai solo harmony
+
+The riff came about by feel, and apparently in the with respect to Ab, the
+notes are from the 5th mode of the melodic minor scale, also known at the
+Mixolydian b6 scale.
+
+The part after changes harmony though, starting off in Ab Mixolydian b6, then
+back to Ab major for a chord, then to a \#4, which feels like a shift to
+Lydian dominant, the 4th mode of the melodic minor scale.
+
+None of this is really intentional--I guess just interesting that it sounds
+like it goes together when changing "note buckets" so often.
