@@ -19,9 +19,11 @@ constant but in specified ratios, they change with their own periods.
 
 What are these periods you ask?
 
-We have a cycle of 4-3-2-1-0-1-2-3... in the snare and ride.
+We have a cycle of 4-3-2-1-0-1-2-3... in the snare and ride, which sums to 16.
 
 We have a cycle of 4-5-6-5... in the kick that lasts the sum of those (20).
+
+20/16 is 5/4, which is the same as a major 3rd in just intonation.
 
 Then with the cymbals, we have 9-10 repeating over an over again, which lasts
 19 notes each cycle, of course.
