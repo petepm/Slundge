@@ -62,3 +62,55 @@ moves back to Ab major.
 
 None of this is really intentional--I guess just interesting that it sounds
 like it goes together when changing "note buckets" so often.
+
+
+## Navier--Stokes as music
+
+_This was not implemented. Maybe it should be in another song._
+
+See https://www.mech.kth.se/~luca/Smak/rec4.pdf
+
+I had the goal of representing at least continuum mechanics musically.
+
+We have a solution to this equation, which is the music.
+
+The derivatives of the solution are
+
+What is the derivative of a note, a melody, a rhythm? The rate of change with
+respect to some dimension.
+
+Dimensions or quantities or variables are frequency, intensity, tempo, time,
+pitch, subdivision choice or spacing
+
+Pitch is vibrations per unit time
+
+How to represent a quasi periodic time series like a musical section as a
+single solution or function?
+
+Tempo vs time
+Pitch vs time
+Rhythmic period (inverse of hits per unit time) versus time
+Time between notes
+
+Fun to listen to if it's confusing at first but can eventually be understood or
+followed
+
+What do we have so far?
+Oscillating between two chords, then shifting to another to end
+How long does each chord last?
+What frequencies are in the chord?
+A solo idea with arpeggios
+
+Solutions can also have probability distributions, or spectrums
+We could have a 5/3 slope describing prevalence of large versus small rhythmic
+structures
+
+Random walk for x-location on piano
+
+Guitar x--y position can be a function of time, functions of each other,
+derivatives, these have speeds as well
+
+Pressure is like an external instrument. Rate of change of pressure as we move
+in the x direction affects speed in that direction
+
+We want this part of the song to satisfy a differential equation
