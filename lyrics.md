@@ -14,7 +14,7 @@ Dread to be a domestique
 Fall down the cascade
 Hierarchically afraid
 Streamlined
-So blind
+Though blind
 Try to control
 One's role
 No heaven for perfect souls
