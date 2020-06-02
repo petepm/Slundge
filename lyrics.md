@@ -6,8 +6,8 @@
 
 Continuum
 No trace where it started from
-One for all but one seeks to be discrete
-Though
+One for all but one
+Seeks to be discrete though
 We're all caught in the flow
 Dread to be a domestique
 
@@ -17,7 +17,7 @@ Streamlined
 Though blind
 Try to control
 One's role
-No heaven for perfect souls
+Can't be heaven with perfect souls
 
 
 ### Prechorus 1
@@ -49,19 +49,16 @@ Now just walking randomly
 Past
 On a free path
 Feel bad for acting kind of mean
-Fluctuating about the background
-It's so obscene
-Obscene true
-Clean shoes
 
-Shearing infinitely
+Bop bop up and down the about the background
+Perturbations grow
+With some luck we might
+Glean clues
+From obscene news
 
-Some boppin' stuff
+To infinitely shear
 We can't all steer
-Some of us gotta row
-Down the stream
-Slow
-Momentum
+Row row... row
 
 
 ### Prechorus 2
@@ -70,14 +67,14 @@ Cries slowed
 Whispering the things I wanna know
 
 What a relief
-No one really gives a shit
+It doesn't really matter if anyone thinks it matters
 
 
 ### Chorus 2
 
 Blown to pieces by the wind
 Dissipated all within
-I'm fucking on TV (Running on DC?)
+I'm fucking on TV (walking on DC?)
 Fucking those who fucked with me
 
 Should be lifting like a wing
@@ -89,9 +86,10 @@ Entrain me
 
 ### Slop post-chorus
 
-SCREAAAAAMZ
 OWWWWW
 OOO
+HEEEEEAVE
+HOOOOOOOOOO
 
 
 ### Solo break
@@ -210,6 +208,16 @@ Wouldn't happen without the others
 Peddled influence
 Subdominant
 Momentum balance
+
+Kiss the world goodbye it's time to go
+
+Unique rhymes with domestique
+
+Lay low
+Feel the pressure say which way to go
+
+Single family
+Won't be if that's how we make our homes
 
 
 ## Resources
