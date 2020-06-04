@@ -6,7 +6,7 @@
 
 Continuum
 No trace where it started from
-One for all but one
+All in one
 Seeks to be discrete though
 We're all caught in the flow
 Dread to be a domestique
@@ -18,6 +18,7 @@ Though blind
 Try to control
 One's role
 Can't be heaven with perfect souls
+Spokes pull different ways with the same goal
 
 
 ### Prechorus 1
@@ -41,7 +42,7 @@ Entrain me
 Scatting?
 
 
-### Second verse (jazzy)
+### Verse 2 (jazzy)
 
 Continuum
 Didn't even talk to 'em
@@ -53,7 +54,7 @@ Feel bad for acting kind of mean
 Bop bop up and down the about the background
 Perturbations grow
 With some luck we might
-Glean clues
+Hope to glean clues
 From obscene news
 
 To infinitely shear
@@ -102,7 +103,8 @@ Panta Rhei
 ### Nu metal part
 
 [Background vox]
-This is the final show
+This is the only show
+Accumulates beyond zero
 
 
 ### Final prechorus (whispered)
@@ -218,6 +220,9 @@ Feel the pressure say which way to go
 
 Single family
 Won't be if that's how we make our homes
+
+Churning
+Ablating
 
 
 ## Resources
