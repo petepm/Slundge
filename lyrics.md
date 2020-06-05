@@ -104,7 +104,7 @@ Panta Rhei
 
 [Background vox]
 This is the only show
-Accumulates beyond zero
+Whisper the sum up past zero
 
 
 ### Final prechorus (whispered)
