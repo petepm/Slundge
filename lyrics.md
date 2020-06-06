@@ -46,9 +46,9 @@ Scatting?
 
 Continuum
 Didn't even talk to 'em
-Now just walking randomly
-Past
-On a free path
+Oscillate back and forth
+Seems randomly
+Math, not a free path
 Feel bad for acting kind of mean
 
 Bop bop up down bout the background slow
@@ -105,7 +105,7 @@ Panta Rhei
 
 [Background vox]
 This is the only show
-Whisper the sum up past zero
+Screaming the sum up past zero
 
 
 ### Final prechorus (whispered)
