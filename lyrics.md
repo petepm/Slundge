@@ -224,6 +224,12 @@ Won't be if that's how we make our homes
 Churning
 Ablating
 
+A seed is a perturbation in the biosphere
+Could be damped
+Could change the course of history
+But that's not up to the seed
+It's up to the whole system
+
 
 ## Resources
 
