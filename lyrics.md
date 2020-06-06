@@ -7,14 +7,14 @@
 Continuum
 No trace where it started from
 All in one
-Seeks to be discrete though
+Wants to be discrete though
 We're all caught in the flow
 Dread to be a domestique
 
 Fall down the cascade
 Hierarchically afraid
-Streamlined
-Though blind
+Streamline
+Lone mind
 Try to control
 One's role
 Can't be heaven with perfect souls
@@ -105,7 +105,7 @@ Panta Rhei
 
 [Background vox]
 This is the only show
-Screaming the sum up past zero
+All screams add up way past zero
 
 
 ### Final prechorus (whispered)
@@ -230,6 +230,14 @@ Could be damped
 Could change the course of history
 But that's not up to the seed
 It's up to the whole system
+
+Chapeau
+Plateau
+Throw
+Stowed
+In tow
+Schmo
+Sowed
 
 
 ## Resources
