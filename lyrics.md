@@ -51,10 +51,11 @@ Past
 On a free path
 Feel bad for acting kind of mean
 
-Bop bop up and down the about the background
+Bop bop up down bout the background slow
 Perturbations grow
-With some luck we might
-Hope to glean clues
+Disparate rarefied
+But yeah we got to move together
+To glean clues
 From obscene news
 
 To infinitely shear
