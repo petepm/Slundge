@@ -51,7 +51,7 @@ Seems randomly
 Math, not a free path
 Feel bad for acting kind of mean
 
-Bop bop up down bout the background slow
+Left right up down on top of the background show
 Perturbations grow
 Disparate rarefied
 But yeah we got to move together
@@ -80,7 +80,7 @@ I'm fucking on TV (walking on DC?)
 Fucking those who fucked with me
 
 Should be lifting like a wing
-Not dragging (stalling?) hating everything
+Not dragging hating everything
 I'm waiting for rain
 To escape
 Entrain me
@@ -103,21 +103,25 @@ Panta Rhei
 
 ### Nu metal part
 
-[Background vox]
-This is the only show
-All screams add up way past zero
+Don't let the force plateau
+Positive screams add past zero
 
 
 ### Final prechorus (whispered)
 
 Steps shown
 Whispering the way it's gonna go
-Winds blown
 Slips beneath the ways I feel alone
+
+Through bones
+Dead man sings
 
 I see
 Hating all the things I have to be
 Natural path replaces I with we
+
+Lay low
+Feel the pressure say which way to go
 
 
 ## Other ideas
@@ -216,9 +220,6 @@ Kiss the world goodbye it's time to go
 
 Unique rhymes with domestique
 
-Lay low
-Feel the pressure say which way to go
-
 Single family
 Won't be if that's how we make our homes
 
@@ -238,6 +239,16 @@ Stowed
 In tow
 Schmo
 Sowed
+
+Ride slow
+See the world outside your window
+
+Walking around with a dead man singin' through my bones
+Strung up in the place I went to feel the most alone
+
+Something about no influence
+Maybe compressible
+Shock
 
 
 ## Resources
