@@ -23,7 +23,7 @@ Spokes pull different ways with the same goal
 
 ### Prechorus 1
 
-Sighs low
+Fly low
 Whispering inside a tornado
 [There's not really any point]
 
@@ -46,12 +46,12 @@ Scatting?
 
 Continuum
 Didn't even talk to 'em
-Oscillate back and forth
-Seems randomly
-Math, not a free path
+Oscillate randomly
+The patterns could they be math
+Not a free path
 Feel bad for acting kind of mean
 
-Left right up down on top of the background show
+Up down left right over the background show
 Perturbations grow
 Disparate rarefied
 But yeah we got to move together
@@ -65,7 +65,7 @@ Row row... row
 
 ### Prechorus 2
 
-Cries slowed
+Cries stowed
 Whispering the things I wanna know
 
 What a relief
@@ -109,16 +109,8 @@ Positive screams add past zero
 
 ### Final prechorus (whispered)
 
-Steps shown
-Whispering the way it's gonna go
-Slips beneath the ways I feel alone
-
-Through bones
-Dead man sings
-
-I see
-Hating all the things I have to be
-Natural path replaces I with we
+By bones
+Dead man sings and now we're not alone
 
 Lay low
 Feel the pressure say which way to go
@@ -126,20 +118,11 @@ Feel the pressure say which way to go
 
 ## Other ideas
 
-Why's it felt so commonly
-Self outside society
-
-Some seem to be pulling against
-But that pulls back to the right direction
-
 Every thought and action
 Eventually evaporates
 Anxiety from individuality
 A false dichotomy
 We can as one be
-
-Put yourself where you'll do the most damage
-Be honest about what that is
 
 It's one of nature's quirks
 Ratio of a million failures to one that works
@@ -150,15 +133,6 @@ Breaking toxic instincts
 
 Flip the tendency to take
 Energy should move between scales
-
-Checks and balances
-Being liked isn't always possible
-Or desirable
-
-A disliked contrarian
-A perturbation
-Could cause chaotic change
-Could be damped
 
 Even a cog is a purpose
 All spokes pull a different way
@@ -184,9 +158,6 @@ Success for one is success for all
 Your beauty is our beauty
 It's not zero sum
 It's cumulative
-
-Pressure can't become diffusion
-Accept your term
 
 Everything expects nothing
 Sudden bifurcation in thought
