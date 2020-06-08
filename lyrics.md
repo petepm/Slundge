@@ -23,7 +23,7 @@ Spokes pull different ways with the same goal
 
 ### Prechorus 1
 
-Fly low
+Fly slow
 Whispering inside a tornado
 [There's not really any point]
 
@@ -103,14 +103,14 @@ Panta Rhei
 
 ### Nu metal part
 
-Don't let the force plateau
-Positive screams add past zero
+Feel momentum plateaued
+Screams for the top forced down below (no heroes?)
 
 
 ### Final prechorus (whispered)
 
-By bones
-Dead man sings and now we're not alone
+Tides grow
+Whispering to those above chapeau
 
 Lay low
 Feel the pressure say which way to go
@@ -135,7 +135,6 @@ Flip the tendency to take
 Energy should move between scales
 
 Even a cog is a purpose
-All spokes pull a different way
 A link in the chain
 
 Polar and nonpolar
@@ -146,13 +145,6 @@ Instability
 
 Miserable to try to be
 That one particle in the sea
-
-We're all the sun
-Single family
-But not like that
-
-No villains or heroes
-A revelation when you're not the sun
 
 Success for one is success for all
 Your beauty is our beauty
@@ -191,17 +183,8 @@ Kiss the world goodbye it's time to go
 
 Unique rhymes with domestique
 
-Single family
-Won't be if that's how we make our homes
-
 Churning
 Ablating
-
-A seed is a perturbation in the biosphere
-Could be damped
-Could change the course of history
-But that's not up to the seed
-It's up to the whole system
 
 Chapeau
 Plateau
@@ -213,9 +196,6 @@ Sowed
 
 Ride slow
 See the world outside your window
-
-Walking around with a dead man singin' through my bones
-Strung up in the place I went to feel the most alone
 
 Something about no influence
 Maybe compressible
