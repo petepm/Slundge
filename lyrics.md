@@ -23,7 +23,7 @@ Spokes pull different ways with the same goal
 
 ### Prechorus 1
 
-Fly slow
+Die slow
 Whispering inside a tornado
 [There's not really any point]
 
@@ -103,8 +103,8 @@ Panta Rhei
 
 ### Nu metal part
 
-Feel momentum plateaued
-Screams for the top forced down below (no heroes?)
+Sum villains and heroes
+Balance momentum so below
 
 
 ### Final prechorus (whispered)
@@ -200,6 +200,8 @@ See the world outside your window
 Something about no influence
 Maybe compressible
 Shock
+
+Pain ripples through
 
 
 ## Resources
