@@ -18,7 +18,7 @@ Lone mind
 Try to control
 One's role
 Can't be heaven with perfect souls
-Spokes pull different ways with the same goal
+Spokes pull different ways but still wheel rolls
 
 
 ### Prechorus 1
@@ -46,7 +46,7 @@ Scatting?
 
 Continuum
 Didn't even talk to 'em
-Oscillate randomly
+Bouncin' 'round randomly
 The patterns could they be math
 Not a free path
 Feel bad for acting kind of mean
@@ -54,9 +54,9 @@ Feel bad for acting kind of mean
 Up down left right over the background show
 Perturbations grow
 Disparate rarefied
-But yeah we got to move together
+But yeah we're bound to move together
 To glean clues
-From obscene news
+From obscene views
 
 To infinitely shear
 We can't all steer
