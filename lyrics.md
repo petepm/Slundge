@@ -17,7 +17,7 @@ Streamline
 Lone mind
 Try to control
 One's role
-Can't be heaven with perfect souls
+Can't see heaven with perfect soul
 Spokes pull different ways but still wheel rolls
 
 
