@@ -23,7 +23,7 @@ Spokes pull different ways but still the wheel rolls
 
 ### Prechorus 1
 
-Die slow
+Cries stowed
 Whispering inside a tornado
 [There's not really any point]
 
@@ -65,7 +65,7 @@ Row row... row
 
 ### Prechorus 2
 
-Cries stowed
+Die slow
 Whispering the things I wanna know
 
 What a relief
