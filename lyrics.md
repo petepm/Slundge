@@ -7,18 +7,18 @@
 Continuum
 No trace where it started from
 All in one
-Wants to be discrete though
+Seeks to be discrete though
 We're all caught in the flow
 Dread to be a domestique
 
 Fall down the cascade
 Hierarchically afraid
 Streamline
-Lone mind
+Don't mind
 Try to control
 One's role
 Can't see heaven with perfect soul
-Spokes pull different ways but still wheel rolls
+Spokes pull different ways but still the wheel rolls
 
 
 ### Prechorus 1
