@@ -46,7 +46,7 @@ Scatting?
 
 Continuum
 Didn't even talk to 'em
-Bouncin' 'round randomly
+Bouncin' 'round randomly (walk around?)
 The patterns could they be math
 Not a free path
 Feel bad for acting kind of mean
