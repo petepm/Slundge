@@ -37,11 +37,6 @@ To escape
 Entrain me
 
 
-### Post-chorus 1 (jazzy)
-
-Scatting?
-
-
 ### Verse 2 (jazzy)
 
 Continuum
