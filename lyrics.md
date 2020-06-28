@@ -89,13 +89,6 @@ HEEEEEAVE
 HOOOOOOOOOO
 
 
-### Solo break
-
-[Some kinds of whispers or ambient stuff? Polymeter timing for vox]
-[Mimic guitar melody with BG vox?]
-Panta Rhei
-
-
 ### Nu metal part
 
 Sum villains and heroes
