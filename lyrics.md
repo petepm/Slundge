@@ -41,7 +41,7 @@ Entrain me
 
 Continuum
 Didn't even talk to 'em
-Walkin' 'round randomly
+Seem to walk randomly
 The patterns could they be math
 Not a free path
 Feel bad for acting kind of mean
