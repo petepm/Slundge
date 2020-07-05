@@ -61,7 +61,7 @@ Row row... row
 ### Prechorus 2
 
 Die slow
-Whispering the things I wanna know
+Whispering inside some things to know
 
 What a relief
 It doesn't really matter if anyone thinks it matters
