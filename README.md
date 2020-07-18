@@ -1,6 +1,6 @@
-# Slundge (the Collective)
+# Slundge (The Collective)
 
-Repository for the Pete Peterson tune "Slundge (the Collective)".
+Repository for the Pete Peterson tune "Slundge (The Collective)".
 
 
 ## License
