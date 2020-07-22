@@ -71,7 +71,7 @@ It doesn't really matter if anyone thinks it matters
 
 Blown to pieces by the wind
 Dissipated all within
-I'm fucking on TV (walking on DC?)
+I'm fucking on TV
 Fucking those who fucked with me
 
 Should be lifting like a wing
@@ -83,10 +83,10 @@ Entrain me
 
 ### Slop post-chorus
 
-OWWWWW
-OOO
-HEEEEEAVE
-HOOOOOOOOOO
+OWWWWWWW
+OOOOHHHH
+HEEEEAVE
+HOOOOOOO
 
 
 ### Nu metal part
